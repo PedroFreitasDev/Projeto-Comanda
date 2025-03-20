@@ -1,6 +1,7 @@
-.tableButton{
+.tableButtons{
     height: 200px;
     width: 200px;
+    
 }
 
 .container{
@@ -8,5 +9,10 @@
     flex-direction: row;
     justify-content: center;
     align-items: center;
-    gap: 4px;
+    gap: 5px;
+}
+
+h1{
+    text-align: center;
+    margin-top: 15%;
 }
